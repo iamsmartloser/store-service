@@ -1,0 +1,5 @@
+CascadeType. PERSIST 级联持久化 ( 保存 ) 操作
+CascadeType. MERGE 级联更新 ( 合并 ) 操作
+CascadeType. REFRESH 级联刷新操作，只会查询获取操作
+CascadeType. REMOVE 级联删除操作
+CascadeType. ALL 级联以上全部操作
