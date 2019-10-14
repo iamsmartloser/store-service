@@ -13,9 +13,9 @@ server:
     context-path: /store
 
 
-addr:
-  addr: http://192.168.1.106
-  port: :8080
+#addr:
+#  addr: http://192.168.1.106
+#  port: :8080
 
 
 
